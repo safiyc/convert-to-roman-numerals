@@ -1,6 +1,4 @@
 SPECS
-
-* Ignore non-numeric characters
 * Return "I" for input of "1"
 * Return "II" for input of "2"
 * Return "III" for input of "3"
